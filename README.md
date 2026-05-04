@@ -92,4 +92,4 @@ python/
 
 I'm a Lead Product Analyst open to roles in product analytics, data analytics, and analytics engineering. Based in Gurugram, India.
 
-[LinkedIn](https://linkedin.com/in/your-handle) · [Email](mailto:your@email.com)
+[LinkedIn](https://www.linkedin.com/in/mohitporwal77/) · [Email](mohitporwal77@gmail.com)
